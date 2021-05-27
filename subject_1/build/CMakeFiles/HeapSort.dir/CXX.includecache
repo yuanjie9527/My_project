@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyj/My_project/subject_1/HeapSort.cpp
+HeapSort.hpp
+/home/zyj/My_project/subject_1/HeapSort.hpp
+
+/home/zyj/My_project/subject_1/HeapSort.hpp
+vector
+-
+
+/home/zyj/My_project/subject_1/RandomVec_int.cpp
+RandomVec_int.hpp
+/home/zyj/My_project/subject_1/RandomVec_int.hpp
+
+/home/zyj/My_project/subject_1/RandomVec_int.hpp
+vector
+-
+random
+-
+
+/home/zyj/My_project/subject_1/main.cpp
+iostream
+-
+vector
+-
+HeapSort.hpp
+/home/zyj/My_project/subject_1/HeapSort.hpp
+RandomVec_int.hpp
+/home/zyj/My_project/subject_1/RandomVec_int.hpp
+
