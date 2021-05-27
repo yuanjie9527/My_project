@@ -1,5 +1,6 @@
 #include "Associative_Container.hpp"
 
+#include <vector>
 void count_word_number()
 {
     map<string, size_t> word_count;
