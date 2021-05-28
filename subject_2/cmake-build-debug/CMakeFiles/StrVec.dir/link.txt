@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StrVec.dir/main.cpp.o CMakeFiles/StrVec.dir/MyString.cpp.o CMakeFiles/StrVec.dir/StrVector.cpp.o  -o StrVec 

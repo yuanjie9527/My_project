@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zyj/My_project/calu_stl/letcode/main.cpp" "/home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
-  "/home/zyj/My_project/calu_stl/letcode/zyj.cpp" "/home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles/untitled.dir/zyj.cpp.o"
+  "/home/zyj/My_project/subject_2/MyString.cpp" "/home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles/StrVec.dir/MyString.cpp.o"
+  "/home/zyj/My_project/subject_2/StrVector.cpp" "/home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles/StrVec.dir/StrVector.cpp.o"
+  "/home/zyj/My_project/subject_2/main.cpp" "/home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles/StrVec.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

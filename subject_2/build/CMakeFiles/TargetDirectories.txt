@@ -1,3 +1,0 @@
-/home/zyj/My_project/subject_2/build/CMakeFiles/rebuild_cache.dir
-/home/zyj/My_project/subject_2/build/CMakeFiles/StrVec.dir
-/home/zyj/My_project/subject_2/build/CMakeFiles/edit_cache.dir

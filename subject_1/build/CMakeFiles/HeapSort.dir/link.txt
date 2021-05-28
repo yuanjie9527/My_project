@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/HeapSort.dir/main.cpp.o CMakeFiles/HeapSort.dir/HeapSort.cpp.o CMakeFiles/HeapSort.dir/RandomVec_int.cpp.o  -o HeapSort 

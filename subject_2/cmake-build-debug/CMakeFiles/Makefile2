@@ -64,16 +64,16 @@ RM = /home/zyj/Clion/clion-2020.2.4/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyj/My_project/calu_stl/letcode
+CMAKE_SOURCE_DIR = /home/zyj/My_project/subject_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyj/My_project/calu_stl/letcode/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyj/My_project/subject_2/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/untitled.dir/all
+all: CMakeFiles/StrVec.dir/all
 
 .PHONY : all
 
@@ -83,36 +83,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/untitled.dir/clean
+clean: CMakeFiles/StrVec.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/untitled.dir
+# Target rules for target CMakeFiles/StrVec.dir
 
 # All Build rule for target.
-CMakeFiles/untitled.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target untitled"
-.PHONY : CMakeFiles/untitled.dir/all
+CMakeFiles/StrVec.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target StrVec"
+.PHONY : CMakeFiles/StrVec.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/untitled.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles 3
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/untitled.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/untitled.dir/rule
+CMakeFiles/StrVec.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles 4
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/StrVec.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/StrVec.dir/rule
 
 # Convenience name for target.
-untitled: CMakeFiles/untitled.dir/rule
+StrVec: CMakeFiles/StrVec.dir/rule
 
-.PHONY : untitled
+.PHONY : StrVec
 
 # clean rule for target.
-CMakeFiles/untitled.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/clean
-.PHONY : CMakeFiles/untitled.dir/clean
+CMakeFiles/StrVec.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/clean
+.PHONY : CMakeFiles/StrVec.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

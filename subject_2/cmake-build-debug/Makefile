@@ -68,10 +68,10 @@ RM = /home/zyj/Clion/clion-2020.2.4/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyj/My_project/calu_stl/letcode
+CMAKE_SOURCE_DIR = /home/zyj/My_project/subject_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyj/My_project/calu_stl/letcode/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyj/My_project/subject_2/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles /home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles /home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/calu_stl/letcode/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyj/My_project/subject_2/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -131,17 +131,71 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named untitled
+# Target rules for targets named StrVec
 
 # Build rule for target.
-untitled: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 untitled
-.PHONY : untitled
+StrVec: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 StrVec
+.PHONY : StrVec
 
 # fast build rule for target.
-untitled/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
-.PHONY : untitled/fast
+StrVec/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/build
+.PHONY : StrVec/fast
+
+MyString.o: MyString.cpp.o
+
+.PHONY : MyString.o
+
+# target to build an object file
+MyString.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/MyString.cpp.o
+.PHONY : MyString.cpp.o
+
+MyString.i: MyString.cpp.i
+
+.PHONY : MyString.i
+
+# target to preprocess a source file
+MyString.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/MyString.cpp.i
+.PHONY : MyString.cpp.i
+
+MyString.s: MyString.cpp.s
+
+.PHONY : MyString.s
+
+# target to generate assembly for a file
+MyString.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/MyString.cpp.s
+.PHONY : MyString.cpp.s
+
+StrVector.o: StrVector.cpp.o
+
+.PHONY : StrVector.o
+
+# target to build an object file
+StrVector.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/StrVector.cpp.o
+.PHONY : StrVector.cpp.o
+
+StrVector.i: StrVector.cpp.i
+
+.PHONY : StrVector.i
+
+# target to preprocess a source file
+StrVector.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/StrVector.cpp.i
+.PHONY : StrVector.cpp.i
+
+StrVector.s: StrVector.cpp.s
+
+.PHONY : StrVector.s
+
+# target to generate assembly for a file
+StrVector.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/StrVector.cpp.s
+.PHONY : StrVector.cpp.s
 
 main.o: main.cpp.o
 
@@ -149,7 +203,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -158,7 +212,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -167,35 +221,8 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/StrVec.dir/build.make CMakeFiles/StrVec.dir/main.cpp.s
 .PHONY : main.cpp.s
-
-zyj.o: zyj.cpp.o
-
-.PHONY : zyj.o
-
-# target to build an object file
-zyj.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/zyj.cpp.o
-.PHONY : zyj.cpp.o
-
-zyj.i: zyj.cpp.i
-
-.PHONY : zyj.i
-
-# target to preprocess a source file
-zyj.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/zyj.cpp.i
-.PHONY : zyj.cpp.i
-
-zyj.s: zyj.cpp.s
-
-.PHONY : zyj.s
-
-# target to generate assembly for a file
-zyj.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/zyj.cpp.s
-.PHONY : zyj.cpp.s
 
 # Help Target
 help:
@@ -205,13 +232,16 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... untitled"
+	@echo "... StrVec"
+	@echo "... MyString.o"
+	@echo "... MyString.i"
+	@echo "... MyString.s"
+	@echo "... StrVector.o"
+	@echo "... StrVector.i"
+	@echo "... StrVector.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... zyj.o"
-	@echo "... zyj.i"
-	@echo "... zyj.s"
 .PHONY : help
 
 
