@@ -1,3 +1,7 @@
+//
+// Created by zyj on 2021/5/28.
+//
+
 #include <iostream>
 #include <vector>
 #include <map>
@@ -56,7 +60,7 @@ int main()
     Solution s;
     auto res=s.topKFrequent(words,2);
     for(auto r:res)
-    cout<<r<<endl;
+        cout<<r<<endl;
 
     //--------------------查看结果--------------------------
 
@@ -71,4 +75,3 @@ int main()
 //for(int i=0;i<vec.size();i++)
 //    cout<<vec.at(i)<<" ";
 //    cout<<endl;
-

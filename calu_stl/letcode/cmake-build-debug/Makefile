@@ -131,17 +131,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named untitled
+# Target rules for targets named letcode
 
 # Build rule for target.
-untitled: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 untitled
-.PHONY : untitled
+letcode: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 letcode
+.PHONY : letcode
 
 # fast build rule for target.
-untitled/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
-.PHONY : untitled/fast
+letcode/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/build
+.PHONY : letcode/fast
 
 main.o: main.cpp.o
 
@@ -149,7 +149,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -158,7 +158,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -167,7 +167,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 zyj.o: zyj.cpp.o
@@ -176,7 +176,7 @@ zyj.o: zyj.cpp.o
 
 # target to build an object file
 zyj.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/zyj.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/zyj.cpp.o
 .PHONY : zyj.cpp.o
 
 zyj.i: zyj.cpp.i
@@ -185,7 +185,7 @@ zyj.i: zyj.cpp.i
 
 # target to preprocess a source file
 zyj.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/zyj.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/zyj.cpp.i
 .PHONY : zyj.cpp.i
 
 zyj.s: zyj.cpp.s
@@ -194,7 +194,7 @@ zyj.s: zyj.cpp.s
 
 # target to generate assembly for a file
 zyj.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/zyj.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/letcode.dir/build.make CMakeFiles/letcode.dir/zyj.cpp.s
 .PHONY : zyj.cpp.s
 
 # Help Target
@@ -205,7 +205,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... untitled"
+	@echo "... letcode"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
