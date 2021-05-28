@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyj/CLionProjects/untitled/main.cpp
+iostream
+-
+
+/home/zyj/CLionProjects/untitled/zyj.cpp
+

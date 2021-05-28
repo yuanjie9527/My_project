@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyj/CLionProjects/ReadSTL/Point3f.h
+
+/home/zyj/CLionProjects/ReadSTL/ReadSTLFile.cpp
+stdio.h
+-
+vector
+-
+fstream
+-
+iostream
+-
+string
+-
+cstring
+-
+ReadSTLFile.h
+/home/zyj/CLionProjects/ReadSTL/ReadSTLFile.h
+sstream
+-
+
+/home/zyj/CLionProjects/ReadSTL/ReadSTLFile.h
+vector
+-
+Point3f.h
+/home/zyj/CLionProjects/ReadSTL/Point3f.h
+

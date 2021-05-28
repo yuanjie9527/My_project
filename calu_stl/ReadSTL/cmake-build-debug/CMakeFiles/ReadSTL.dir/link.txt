@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ReadSTL.dir/main.cpp.o CMakeFiles/ReadSTL.dir/ReadSTLFile.cpp.o CMakeFiles/ReadSTL.dir/Point3f.cpp.o CMakeFiles/ReadSTL.dir/TrianglesArea.cpp.o  -o ReadSTL 

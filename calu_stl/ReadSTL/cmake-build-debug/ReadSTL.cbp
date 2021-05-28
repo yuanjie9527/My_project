@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ReadSTL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReadSTL">
+				<Option output="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/ReadSTL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReadSTL"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReadSTL/fast">
+				<Option output="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/ReadSTL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyj/CLionProjects/ReadSTL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReadSTL/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/zyj/CLionProjects/ReadSTL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/Point3f.cpp">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/Point3f.h">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/ReadSTLFile.cpp">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/ReadSTLFile.h">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/TrianglesArea.cpp">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/TrianglesArea.h">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/main.cpp">
+			<Option target="ReadSTL"/>
+		</Unit>
+		<Unit filename="/home/zyj/CLionProjects/ReadSTL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
