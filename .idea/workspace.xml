@@ -28,6 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec020d0d-e71c-43db-9980-bf49db7848f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subject_1/Associative_Container.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/subject_1/Associative_Container.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,13 +80,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="512" y="27" width="920" height="1023" key="CommitChangelistDialog2" timestamp="1622121926217">
+    <state x="512" y="27" width="920" height="1023" key="CommitChangelistDialog2" timestamp="1622123379271">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="512" y="27" width="920" height="1023" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1622121926217" />
+    <state x="512" y="27" width="920" height="1023" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1622123379271" />
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1622122086689">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1622122086689" />
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1622123333516">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1622123333516" />
   </component>
 </project>
