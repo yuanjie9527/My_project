@@ -6,3 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+#local makefile
+/../cmake-build-debug/
+/../CmaKeLists.txt
+
