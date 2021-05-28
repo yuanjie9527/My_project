@@ -63,10 +63,10 @@ RM = /home/zyj/Clion/clion-2020.2.4/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyj/CLionProjects/CaluSTL
+CMAKE_SOURCE_DIR = /home/zyj/My_project/calu_stl/CaluSTL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyj/CLionProjects/CaluSTL/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CaluSTL.dir/depend.make
@@ -79,55 +79,55 @@ include CMakeFiles/CaluSTL.dir/flags.make
 
 CMakeFiles/CaluSTL.dir/main.cpp.o: CMakeFiles/CaluSTL.dir/flags.make
 CMakeFiles/CaluSTL.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CaluSTL.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/main.cpp.o -c /home/zyj/CLionProjects/CaluSTL/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CaluSTL.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/main.cpp.o -c /home/zyj/My_project/calu_stl/CaluSTL/main.cpp
 
 CMakeFiles/CaluSTL.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CaluSTL.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/CLionProjects/CaluSTL/main.cpp > CMakeFiles/CaluSTL.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/My_project/calu_stl/CaluSTL/main.cpp > CMakeFiles/CaluSTL.dir/main.cpp.i
 
 CMakeFiles/CaluSTL.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CaluSTL.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/CLionProjects/CaluSTL/main.cpp -o CMakeFiles/CaluSTL.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/My_project/calu_stl/CaluSTL/main.cpp -o CMakeFiles/CaluSTL.dir/main.cpp.s
 
 CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o: CMakeFiles/CaluSTL.dir/flags.make
 CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o: ../ReadSTLFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o -c /home/zyj/CLionProjects/CaluSTL/ReadSTLFile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o -c /home/zyj/My_project/calu_stl/CaluSTL/ReadSTLFile.cpp
 
 CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/CLionProjects/CaluSTL/ReadSTLFile.cpp > CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/My_project/calu_stl/CaluSTL/ReadSTLFile.cpp > CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.i
 
 CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/CLionProjects/CaluSTL/ReadSTLFile.cpp -o CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/My_project/calu_stl/CaluSTL/ReadSTLFile.cpp -o CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.s
 
 CMakeFiles/CaluSTL.dir/Point3f.cpp.o: CMakeFiles/CaluSTL.dir/flags.make
 CMakeFiles/CaluSTL.dir/Point3f.cpp.o: ../Point3f.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CaluSTL.dir/Point3f.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/Point3f.cpp.o -c /home/zyj/CLionProjects/CaluSTL/Point3f.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CaluSTL.dir/Point3f.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/Point3f.cpp.o -c /home/zyj/My_project/calu_stl/CaluSTL/Point3f.cpp
 
 CMakeFiles/CaluSTL.dir/Point3f.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CaluSTL.dir/Point3f.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/CLionProjects/CaluSTL/Point3f.cpp > CMakeFiles/CaluSTL.dir/Point3f.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/My_project/calu_stl/CaluSTL/Point3f.cpp > CMakeFiles/CaluSTL.dir/Point3f.cpp.i
 
 CMakeFiles/CaluSTL.dir/Point3f.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CaluSTL.dir/Point3f.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/CLionProjects/CaluSTL/Point3f.cpp -o CMakeFiles/CaluSTL.dir/Point3f.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/My_project/calu_stl/CaluSTL/Point3f.cpp -o CMakeFiles/CaluSTL.dir/Point3f.cpp.s
 
 CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o: CMakeFiles/CaluSTL.dir/flags.make
 CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o: ../TrianglesArea.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o -c /home/zyj/CLionProjects/CaluSTL/TrianglesArea.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o -c /home/zyj/My_project/calu_stl/CaluSTL/TrianglesArea.cpp
 
 CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/CLionProjects/CaluSTL/TrianglesArea.cpp > CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyj/My_project/calu_stl/CaluSTL/TrianglesArea.cpp > CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.i
 
 CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/CLionProjects/CaluSTL/TrianglesArea.cpp -o CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyj/My_project/calu_stl/CaluSTL/TrianglesArea.cpp -o CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.s
 
 # Object files for target CaluSTL
 CaluSTL_OBJECTS = \
@@ -145,7 +145,7 @@ CaluSTL: CMakeFiles/CaluSTL.dir/Point3f.cpp.o
 CaluSTL: CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o
 CaluSTL: CMakeFiles/CaluSTL.dir/build.make
 CaluSTL: CMakeFiles/CaluSTL.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CaluSTL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CaluSTL"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CaluSTL.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -158,6 +158,6 @@ CMakeFiles/CaluSTL.dir/clean:
 .PHONY : CMakeFiles/CaluSTL.dir/clean
 
 CMakeFiles/CaluSTL.dir/depend:
-	cd /home/zyj/CLionProjects/CaluSTL/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zyj/CLionProjects/CaluSTL /home/zyj/CLionProjects/CaluSTL /home/zyj/CLionProjects/CaluSTL/cmake-build-debug /home/zyj/CLionProjects/CaluSTL/cmake-build-debug /home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zyj/My_project/calu_stl/CaluSTL /home/zyj/My_project/calu_stl/CaluSTL /home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug /home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug /home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CaluSTL.dir/depend
 

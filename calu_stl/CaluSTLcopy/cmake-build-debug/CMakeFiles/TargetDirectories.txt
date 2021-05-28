@@ -1,3 +1,0 @@
-/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir

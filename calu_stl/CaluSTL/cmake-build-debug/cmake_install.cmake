@@ -1,4 +1,4 @@
-# Install script for directory: /home/zyj/CLionProjects/CaluSTL
+# Install script for directory: /home/zyj/My_project/calu_stl/CaluSTL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

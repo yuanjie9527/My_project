@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zyj/CLionProjects/CaluSTL/Point3f.cpp" "/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/Point3f.cpp.o"
-  "/home/zyj/CLionProjects/CaluSTL/ReadSTLFile.cpp" "/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o"
-  "/home/zyj/CLionProjects/CaluSTL/TrianglesArea.cpp" "/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o"
-  "/home/zyj/CLionProjects/CaluSTL/main.cpp" "/home/zyj/CLionProjects/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/main.cpp.o"
+  "/home/zyj/My_project/calu_stl/CaluSTL/Point3f.cpp" "/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/Point3f.cpp.o"
+  "/home/zyj/My_project/calu_stl/CaluSTL/ReadSTLFile.cpp" "/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o"
+  "/home/zyj/My_project/calu_stl/CaluSTL/TrianglesArea.cpp" "/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o"
+  "/home/zyj/My_project/calu_stl/CaluSTL/main.cpp" "/home/zyj/My_project/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

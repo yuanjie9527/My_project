@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     ReadSTLFile ReadSTLFile;
-    ReadSTLFile.ReadFile("/home/zyj/CLionProjects/ReadSTL/Charmander.stl");
+    ReadSTLFile.ReadFile("/home/zyj/CLionProjects/STLfile/Charmander.stl");
     ReadSTLFile.PrintInfo();
 
     return 0;

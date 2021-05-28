@@ -28,8 +28,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec020d0d-e71c-43db-9980-bf49db7848f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subject_1/Associative_Container.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/subject_1/Associative_Container.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/Point3f.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/Point3f.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/ReadSTLFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/TrianglesArea.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/CaluSTL.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CaluSTL" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CaluSTL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CaluSTL.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/CaluSTL.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/CaluSTL/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/CaluSTL/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/Point3f.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/Point3f.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/ReadSTLFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/ReadSTLFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/TrianglesArea.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/TrianglesArea.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/ReadSTL.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/ReadSTL" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/ReadSTL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/ReadSTL.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/ReadSTL.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calu_stl/ReadSTL/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calu_stl/ReadSTL/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +101,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calu_stl/CaluSTL" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,6 +138,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1622122086689" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1622191304806">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1622191304806" />
     <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1622123333516">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
