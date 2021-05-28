@@ -8,5 +8,4 @@
 /httpRequests/
 #local makefile
 /../cmake-build-debug/
-/../CmaKeLists.txt
 

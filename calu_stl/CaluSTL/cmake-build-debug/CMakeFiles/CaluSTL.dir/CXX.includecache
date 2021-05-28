@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyj/My_project/calu_stl/CaluSTL/Point3f.h
+
+/home/zyj/My_project/calu_stl/CaluSTL/ReadSTLFile.h
+vector
+-
+Point3f.h
+/home/zyj/My_project/calu_stl/CaluSTL/Point3f.h
+
+/home/zyj/My_project/calu_stl/CaluSTL/main.cpp
+iostream
+-
+cstring
+-
+vector
+-
+string
+-
+fstream
+-
+ReadSTLFile.h
+/home/zyj/My_project/calu_stl/CaluSTL/ReadSTLFile.h
+map
+-
+algorithm
+-
+
