@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/letcode.dir/main.cpp.o CMakeFiles/letcode.dir/zyj.cpp.o  -o letcode 
